@@ -260,8 +260,11 @@ namespace SalmenceChecklistMod
                     Buttons[button.Key] = button.Value ? false : true;
             }
 
-            CopyToData();
-            ModHelper.Data.WriteSaveData<ModData>("checklist-key", this.data);
+            if(Context.IsMainPlayer)
+            {
+                CopyToData();
+                ModHelper.Data.WriteSaveData<ModData>("checklist-key", this.data);
+            }
         }
 
         public override void draw(SpriteBatch b)
@@ -269,11 +272,14 @@ namespace SalmenceChecklistMod
             Game1.drawDialogueBox(this.xPositionOnScreen, this.yPositionOnScreen, this.width, this.height, false, true);
             b.Draw(ModEntry.checklist, new Vector2(0, 0), Color.White);
 
-            var readData = ModHelper.Data.ReadSaveData<ModData>("checklist-key");
-            if (readData is not null)
+            if(Context.IsMainPlayer)
             {
-                this.data = readData;
-                CopyToButtons();
+                var readData = ModHelper.Data.ReadSaveData<ModData>("checklist-key");
+                if (readData is not null)
+                {
+                    this.data = readData;
+                    CopyToButtons();
+                }
             }
 
             foreach (KeyValuePair<ClickableComponent, bool> button in Buttons)
