@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Salmence Checklist Mod",
+  "Author": "astrochicken8",
+  "Version": "1.0.0",
+  "Description": "Adds Salmence's Year 1 Checklist Image easily accessible in-game.",
+  "UniqueID": "astrochicken8.SalmenceChecklistMod",
+  "EntryDll": "SalmenceChecklistMod.dll",
+  "UpdateKeys": []
+}
