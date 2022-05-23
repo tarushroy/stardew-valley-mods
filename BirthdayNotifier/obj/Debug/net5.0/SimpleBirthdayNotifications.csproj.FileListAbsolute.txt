@@ -1,0 +1,10 @@
+D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\bin\Debug\net5.0\SimpleBirthdayNotifications.deps.json
+D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\bin\Debug\net5.0\SimpleBirthdayNotifications.dll
+D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\bin\Debug\net5.0\SimpleBirthdayNotifications.pdb
+D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\obj\Debug\net5.0\SimpleBirthdayNotifications.csproj.AssemblyReference.cache
+D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\obj\Debug\net5.0\SimpleBirthdayNotifications.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\obj\Debug\net5.0\SimpleBirthdayNotifications.AssemblyInfoInputs.cache
+D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\obj\Debug\net5.0\SimpleBirthdayNotifications.AssemblyInfo.cs
+D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\obj\Debug\net5.0\SimpleBirthdayNotifications.csproj.CoreCompileInputs.cache
+D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\obj\Debug\net5.0\SimpleBirthdayNotifications.dll
+D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\obj\Debug\net5.0\SimpleBirthdayNotifications.pdb

@@ -1,0 +1,9 @@
+{
+  "Name": "Simple Birthday Notifications",
+  "Author": "astrochicken8",
+  "Version": "1.0.0",
+  "Description": "Notifies the player about birthdays in the morning.",
+  "UniqueID": "astrochicken8.SimpleBirthdayNotifications",
+  "EntryDll": "SimpleBirthdayNotifications.dll",
+  "UpdateKeys": []
+}
