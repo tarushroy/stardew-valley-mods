@@ -1,9 +1,0 @@
-D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\bin\Debug\net5.0\BirthdayNotifier.deps.json
-D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\bin\Debug\net5.0\BirthdayNotifier.dll
-D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\bin\Debug\net5.0\BirthdayNotifier.pdb
-D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\obj\Debug\net5.0\BirthdayNotifier.GeneratedMSBuildEditorConfig.editorconfig
-D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\obj\Debug\net5.0\BirthdayNotifier.AssemblyInfoInputs.cache
-D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\obj\Debug\net5.0\BirthdayNotifier.AssemblyInfo.cs
-D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\obj\Debug\net5.0\BirthdayNotifier.csproj.CoreCompileInputs.cache
-D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\obj\Debug\net5.0\BirthdayNotifier.dll
-D:\Stardew Valley\BirthdayNotifier\BirthdayNotifier\obj\Debug\net5.0\BirthdayNotifier.pdb
